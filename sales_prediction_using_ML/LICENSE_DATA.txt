@@ -1,0 +1,1 @@
+Bundled sample_sales_17000.csv is synthetic and generated for this project. Public datasets downloaded separately remain subject to their original licenses and terms. Research-paper copyrights remain with their publishers/authors.

@@ -1,0 +1,5 @@
+Model smoke test passed.
+Rows: 17000
+Products: 17
+Forecast rows (7 days x products): 119
+Metrics: {'MAE': 3.7685563464086744, 'RMSE': 5.089227463913011, 'R2': 0.911204479347305, 'test_rows': 136, 'train_rows': 16626}

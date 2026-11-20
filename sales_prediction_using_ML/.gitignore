@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+data/real_sales_subset.csv
